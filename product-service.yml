@@ -1,10 +1,10 @@
 ---
 products:
 - product:
-    product-name: Masajeador de espalda - Modificado por Fransito
+    name: Masajeador de espalda - Modificado por Fransito
 - product:
-    product-name: Colchoneta - Modificado por Adrian
+    name: Colchoneta - Modificado por Adrian
 - product:
-    product-name: Muñequera - Modificado por Gabriel
+    name: Muñequera - Modificado por Gabriel
 - product:
-    product-name: Zapatillas de Deporte - Modificado por Álvaro
+    name: Zapatillas de Deporte - Modificado por Álvaro
